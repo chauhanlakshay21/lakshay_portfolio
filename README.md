@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## 📸 Screenshot
 
-![App Screenshot](assets/Screenshot 2025-05-23 104716.png)
+![App Screenshot](assets/Screenshot.png)
 
 ## Getting Started
 
